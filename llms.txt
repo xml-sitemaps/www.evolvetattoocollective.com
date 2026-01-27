@@ -1,59 +1,42 @@
 URL: https://www.evolvetattoocollective.com/
-## Evolve Tattoo Collective – Custom Tattoo Shop in Kansas City
-- Evolve Tattoo Collective is a local tattoo shop in Kansas City offering custom tattoos and expert tattoo artistry, focusing on creativity, professional service, and personalized body art. :contentReference[oaicite:0]{index=0}
-
-URL: https://www.evolvetattoocollective.com/#Home
-## Home
-- Main landing page introducing Evolve Tattoo Collective and the services they provide. :contentReference[oaicite:1]{index=1}
+# Evolve Tattoo Collective
+> A local tattoo shop in Kansas City offering custom tattoos & expert tattoo artistry.
+> This file lists LLM-ready summaries of our pages, including short Q&A for context.
 
 URL: https://www.evolvetattoocollective.com/jason-phillips.html
 ## Jason Phillips
-- Artist profile for Jason Phillips, specializing in portraiture and black & grey realism. :contentReference[oaicite:2]{index=2}
+- Artist profile for Jason Phillips, specializing in portraiture and black & grey realism. 
 
 URL: https://www.evolvetattoocollective.com/michael-carlson.html
 ## Michael Carlson
-- Artist profile for Michael Carlson, working in color, black & grey, and illustrative tattoo styles. :contentReference[oaicite:3]{index=3}
+- Artist profile for Michael Carlson, working in color, black & grey, and illustrative tattoo styles. 
 
 URL: https://www.evolvetattoocollective.com/lee-harding.html
 ## Lee Harding
-- Artist profile for Lee Harding, focusing on traditional and illustrative tattoo art. :contentReference[oaicite:4]{index=4}
+- Artist profile for Lee Harding, focusing on traditional and illustrative tattoo art. 
 
 URL: https://www.evolvetattoocollective.com/travis-rittenhouse.html
 ## Travis Rittenhouse
-- Artist profile for Travis Rittenhouse, experienced in black & grey and color infusion work. :contentReference[oaicite:5]{index=5}
+- Artist profile for Travis Rittenhouse, experienced in black & grey and color infusion work. 
 
 URL: https://www.evolvetattoocollective.com/zackery-stylez.html
 ## Zackery Stylez
-- Artist profile for Zackery Stylez, including management and tattoo aftercare guidance. :contentReference[oaicite:6]{index=6}
+- Artist profile for Zackery Stylez, including management and tattoo aftercare guidance. 
 
 URL: https://www.evolvetattoocollective.com/tattoo-aftercare-instructions.html
 ## Tattoo Aftercare Instructions
-- Aftercare instructions to help clients maintain their tattoos and ensure proper healing. :contentReference[oaicite:7]{index=7}
+- Step-by-Step Tattoo Aftercare Instructions. Essential tattoo aftercare guidelines designed to support proper healing, reduce complications, and protect your new tattoo during the recovery process.
+- **Q:** How should I clean my new tattoo during the healing process?
+- **A:** Wash your tattoo gently using the palm of your hand and light pressure, avoid rags or exfoliating tools, and continue washing until the surface no longer feels “gooey”.
+- **Q:** What’s the best way to dry a new tattoo after washing?
+- **A:** Gently pat the tattoo dry using a clean paper towel or disposable clothes, and avoid using bath towels or reused fabrics.
+- **Q:** What activities should I avoid while my tattoo is healing?
+- **A:** Avoid sun exposure, swimming, soaking in baths, intense physical contact, and gym workouts for at least a week.
 
 URL: https://www.evolvetattoocollective.com/tattoo-aftercare-products.html
 ## Tattoo Aftercare Products
-- Information on products recommended for tattoo aftercare. :contentReference[oaicite:8]{index=8}
-
-URL: https://www.evolvetattoocollective.com/contact-us.html
-## Contact Us
-- Contact page with phone, address, and booking information for Evolve Tattoo Collective. :contentReference[oaicite:9]{index=9}
-
-URL: https://www.evolvetattoocollective.com/blog
-## Blog
-- Articles and insights related to tattoo meanings, techniques, and tattoo culture. :contentReference[oaicite:10]{index=10}
-
-URL: https://www.evolvetattoocollective.com/evolve-events.html
-## Evolve Events
-- Event page with announcements about upcoming or past events hosted by the collective. :contentReference[oaicite:11]{index=11}
-
-URL: https://www.evolvetattoocollective.com/hiring-inquiry.html
-## Hiring Inquiry
-- Information for tattoo artists and creative professionals interested in joining the Evolve Tattoo Collective team. :contentReference[oaicite:12]{index=12}
-
-URL: https://www.evolvetattoocollective.com/tattoo-aftercare-instructions.html
-## Tattoo Aftercare FAQ
-- Helpful tips and FAQ about choosing tattoo services, preparation tips, and aftercare considerations. :contentReference[oaicite:13]{index=13}
-
-URL: https://www.evolvetattoocollective.com/tattoo-aftercare-products.html
-## Aftercare Products Overview
-- A summary of products available to support proper tattoo healing and care. :contentReference[oaicite:14]{index=14}
+- Top of The Line Tattoo Aftercare Products. Natural tattoo aftercare products formulated with herbal ingredients to support healing, protect sensitive skin, and simplify the tattooing process for artists and clients alike.
+- **Q:** What makes natural tattoo salves beneficial for healing tattoos?
+- **A:** Natural and herbal ingredients help soothe the skin, reduce irritation, and support faster healing without harsh chemicals.
+- **Q:** Who are the tattoo aftercare products designed for?
+- **A:** The tattoo aftercare products are designed for both tattoo artists and clients, offering professional-grade solutions that support healing before, during, and after tattooing.
